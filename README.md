@@ -1,9 +1,5 @@
 ### Hi 👋
 
-
-<center><img src="https://cdn.shopify.com/s/files/1/0068/2142/products/cloudc2-icon_320_240x.png"/></center>
-
-
 <!--
 **lucascruz/lucascruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
