@@ -1,7 +1,7 @@
 ### Hi 👋
 
 
-<center>![Screenshot](https://cdn.shopify.com/s/files/1/0068/2142/products/cloudc2-icon_320_240x.png)</center>
+<center><img src="https://cdn.shopify.com/s/files/1/0068/2142/products/cloudc2-icon_320_240x.png"/></center>
 
 
 <!--
