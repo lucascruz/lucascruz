@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Ruan Xavier!
+# 👋 Hi, I'm Lucas Cruz!
 
-[![Lucas Cruz's Portfolio](https://img.shields.io/static/v1?label=My%20portfolio&message=%20&color=d39176&style=flat-square&logoColor=white&logo=Github-Actions)](https://ruandsx.github.io/)
+[![Lucas Cruz's Portfolio](https://img.shields.io/static/v1?label=My%20portfolio&message=%20&color=d39176&style=flat-square&logoColor=white&logo=Github-Actions)](#)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=blue&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/lucasdasilvacruz)
 
 ## About me
