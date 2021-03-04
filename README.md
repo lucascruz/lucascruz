@@ -23,14 +23,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 -->
-Javascript | Java | Php | Docker 
+Javascript | Java | Python
 
 ## Knowledge
 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
-![PHP](https://img.shields.io/badge/-PHP-grey?style=flat-square&logo=php&logoColor=white)
+
 
 
 **Front-end / Mobile**
